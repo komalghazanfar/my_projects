@@ -38,8 +38,8 @@ pip install -r requirements.txt
 Usage
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/120-Years-of-Olympics-History.git
+
+
 Navigate to the project directory:
 bash
 Copy code
