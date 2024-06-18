@@ -40,16 +40,9 @@ Clone the repository:
 bash
 
 
-Navigate to the project directory:
-bash
-Copy code
-cd 120-Years-of-Olympics-History
-Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook
+
 Run the notebook 120 Years of Olympics History - MBAN1-1 - Komal.ipynb to see the analysis.
-Contributing
+
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 License
